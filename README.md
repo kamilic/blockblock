@@ -43,4 +43,4 @@ const bb = BB({
 
 ## Methods
 - `bb.value(value: number): string` - get blockblock string.
-- `bb.percentage(percent: number): string` - get blockblock string using percentage.(Based on provided `max`.
+- `bb.percentage(percent: number): string` - get blockblock string using percentage based on provided `max`.
