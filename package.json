@@ -1,0 +1,23 @@
+{
+  "name": "blockblock",
+  "version": "1.0.0",
+  "description": "Representing values use chars.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "dev": "tsc --watch",
+    "test": "jest",
+    "build": "tsc",
+    "prepublishOnly": "npm run test",
+    "postinstall": "npm run build && npm run test"
+  },
+  "author": "kamilic",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^12.7.1",
+    "jest": "^24.9.0",
+    "power-assert": "^1.6.1",
+    "typescript": "^3.5.3"
+  }
+}
