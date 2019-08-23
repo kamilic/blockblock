@@ -88,6 +88,7 @@ typings/
 .dynamodb/
 
 # project 
-./dist
+dist/
 .DS_Store
 .vscode
+package-lock.json
