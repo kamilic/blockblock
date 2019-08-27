@@ -27,4 +27,3 @@ stages:
     - script: npm i
     - script: npm run build
     - script: npm run test:ci
-    - script: bash <(curl https://codecov.io/bash) -t $CODECOV_TOKEN -f coverage/cobertura-coverage.xml
