@@ -26,4 +26,4 @@ stages:
         versionSpec: '10.x'
     - script: npm i
     - script: npm run build
-    - script: npm run test
+    - script: npm run test:ci

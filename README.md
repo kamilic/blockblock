@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/kamilic/blockblock/_apis/build/status/kamilic.blockblock?branchName=master)](https://dev.azure.com/kamilic/blockblock/_build/latest?definitionId=1&branchName=master)
 # blockblock
 Representing values use chars.
 
