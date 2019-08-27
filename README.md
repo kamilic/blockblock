@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/kamilic/blockblock/_apis/build/status/kamilic.blockblock?branchName=master)](https://dev.azure.com/kamilic/blockblock/_build/latest?definitionId=1&branchName=master) [![codecov](https://codecov.io/gh/kamilic/blockblock/branch/master/graph/badge.svg)](https://codecov.io/gh/kamilic/blockblock)
+[![npm version](https://badge.fury.io/js/%40kamilic%2Fblockblock.svg)](https://badge.fury.io/js/%40kamilic%2Fblockblock) [![Build Status](https://dev.azure.com/kamilic/blockblock/_apis/build/status/kamilic.blockblock?branchName=master)](https://dev.azure.com/kamilic/blockblock/_build/latest?definitionId=1&branchName=master) [![codecov](https://codecov.io/gh/kamilic/blockblock/branch/master/graph/badge.svg)](https://codecov.io/gh/kamilic/blockblock)
 # blockblock
 Representing values use chars.
 
