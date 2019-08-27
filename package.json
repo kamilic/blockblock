@@ -1,5 +1,5 @@
 {
-  "name": "blockblock",
+  "name": "@kamilic/blockblock",
   "version": "1.0.0",
   "description": "Representing values use chars.",
   "main": "./dist/index.js",

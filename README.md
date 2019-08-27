@@ -3,6 +3,11 @@
 Representing values use chars.
 
 ## Usage
+### install
+```bash
+npm install @kamilic/blockblock
+```
+
 ### default
 ```javascript
 const BB = require('blockblock');
@@ -17,8 +22,8 @@ b.percentage(10); // ██████████
 
 ### custom emoji blockblock
 ```javascript
-const BB = require('blockblock');
-const b = BB({
+const F = require('@kamilic/blockblock');
+const b = F({
     max: 12,
     stepBlocks: ["😞", "😔", "😟", "😢", "😑", "😐", "😏", "🙂", "😀", "😆"]
 });
@@ -31,8 +36,8 @@ b.precentage(100) // "😆😆😆😆😆😆😆😆😆😆😆😆"
 
 ## Options
 ```javascript
-const F = require('blockblock');
-const bb = BB({
+const F = require('@kamilic/blockblock');
+const bb = F({
     // Maximum value
     max: 100,
     // Define different chars for represeting value (0 < value <= 1)
