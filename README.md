@@ -10,7 +10,7 @@ npm install @kamilic/blockblock
 
 ### default
 ```javascript
-const BB = require('blockblock');
+const BB = require('@kamilic/blockblock');
 const b = BB();
 b.value(10); // ██████████
 b.value(10.1); // ██████████
